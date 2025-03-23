@@ -1,9 +1,5 @@
 # Crimes-Against-Women
-Here is a **README.md** file for your **GitHub repository**, summarizing your entire project, including **crime trend analysis, machine learning models, NLP algorithms, and predictive modeling**.  
-
----
-
-## **README.md** - Exploratory Data Analysis, Trend Visualization, and Predictive Modeling of Crimes Against Women in India  
+Exploratory Data Analysis, Trend Visualization, and Predictive Modeling of Crimes Against Women in India  
 
 ### 📌 **Project Overview**  
 This project focuses on **Exploratory Data Analysis (EDA), trend visualization, and predictive modeling** of **Crimes Against Women in India (2001-2021)**. Using **machine learning, time-series forecasting (Prophet, LSTM), decision trees, and NLP algorithms**, we analyze crime trends, identify key patterns, and predict future occurrences.  
